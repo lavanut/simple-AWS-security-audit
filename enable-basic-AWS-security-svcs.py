@@ -1,3 +1,6 @@
+# Python script uses the Boto3 library to enable AWS Security Hub, AWS GuardDuty,
+# AWS CloudTrail, and Amazon Inspector. It also configures Security Hub to use the CIS and PCI DSS benchmarks.
+
 import boto3
 
 # Initialize AWS clients
