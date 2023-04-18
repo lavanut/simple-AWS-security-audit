@@ -19,7 +19,7 @@ This project requires the following Python libraries:
 To install the required dependencies, follow these steps:
 
 1. Clone the repository
-2. git clone https://github.com/avanut/simple-AWS-security-audit.git
+2. git clone https://github.com/lavanut/simple-AWS-security-audit.git
 3. Change to the project directory
 4. Install the dependencies using pip
 5. pip install -r requirements.txt
